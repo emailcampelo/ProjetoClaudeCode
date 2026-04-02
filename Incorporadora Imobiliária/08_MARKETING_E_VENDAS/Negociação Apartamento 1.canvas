@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{
+			"id":"06510bb694ab9154",
+			"type":"text",
+			"text":"Incorporação Imobiliária",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-960,
+			"y":-20,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"5e9eeb4e4e5b2eea",
+			"type":"text",
+			"text":"***Fase Inicial e Terreno***",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-540,
+			"y":-60,
+			"width":260,
+			"height":140
+		}
+	],
+	"edges":[
+		{
+			"id":"d1b00b9b6bd1b15e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"06510bb694ab9154",
+			"fromSide":"right",
+			"toNode":"5e9eeb4e4e5b2eea",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
